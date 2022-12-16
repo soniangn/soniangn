@@ -22,3 +22,7 @@ I'm a **software engineer student** @holbertonschool, in Toulouse, France.
 [_printf](https://github.com/AsiaGrpr/holbertonschool-printf)
 
 [Weather app](https://deft-gelato-bc8639.netlify.app/)
+
+[Simple Shell](https://github.com/HugoCLI/holbertonschool-simple_shell)
+
+[Monty interpreter](https://github.com/soniangn/holbertonschool-monty)
